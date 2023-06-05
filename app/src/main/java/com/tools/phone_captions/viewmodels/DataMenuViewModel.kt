@@ -69,9 +69,7 @@ class DataMenuViewModel(private val picturesRepository: PicturesRepository) : Vi
     }
 
     suspend fun refreshFolderDatabase(folderUri: Uri) {
-        viewModelScope.launch {
-            picturesRepository.refreshFolderDatabase(folderUri)
-        }
+        picturesRepository.refreshFolderDatabase(folderUri)
     }
 
     fun logThumbnails(folderUri: Uri) {

@@ -222,8 +222,8 @@ class DataMenuActivity : AppCompatActivity() {
         viewModel.viewModelScope.launch {
             progressBar.visibility = View.VISIBLE
             viewModel.refreshFolderDatabase(pictureDirectory!!.uri)
-            progressBar.visibility = View.GONE
             loadThumbnails()
+            progressBar.visibility = View.GONE
         }
     }
 
