@@ -7,6 +7,11 @@ Phone Captions is an Android app that empowers you to add captions / tags to you
 With its user-friendly interface, you can effortlessly add and edit captions your images, 
 making it convenient to create datasets for training algorithms such as Stable Diffusion.
 
+
+![example_1](https://github.com/vidmera/Phone-Captions/assets/31655428/9f16548f-8eb6-4e94-a918-ab1bdc77f028)
+
+![example_2](https://github.com/vidmera/Phone-Captions/assets/31655428/9f5bb48e-3e1a-45b2-a37c-e4177db25b0d)
+
 ## Disclaimer
 
 This app utilizes an AI language model called ChatGPT to generate portions of its code. ChatGPT is a product of OpenAI,
