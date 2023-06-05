@@ -3,8 +3,8 @@
 Have you ever had the urge to prepare your dataset for Stable Diffusion while waiting for the bus? Or maybe while queuing
 for your favorite food? Look no further! Phone Captions is here to fulfill your dataset creation dreams!
 
-Phone Captions is an Android app that empowers you to add captions to your photos stored on your phone.
-With its user-friendly interface, you can effortlessly enhance your images with descriptive captions, 
+Phone Captions is an Android app that empowers you to add captions / tags to your photos stored on your phone.
+With its user-friendly interface, you can effortlessly add and edit captions your images, 
 making it convenient to create datasets for training algorithms such as Stable Diffusion.
 
 ## Disclaimer
